@@ -20,3 +20,17 @@ img{
     margin: 0 auto;
     display: block;
 }
+
+div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+}
+
+.image{}
+
+.gengar{
+    display: flex;
+    height:600px;
+}
